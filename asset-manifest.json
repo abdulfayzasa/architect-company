@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/architect-company/static/css/main.a617e044.chunk.css",
-    "main.js": "/architect-company/static/js/main.4f9e86d5.chunk.js",
-    "main.js.map": "/architect-company/static/js/main.4f9e86d5.chunk.js.map",
-    "runtime-main.js": "/architect-company/static/js/runtime-main.454b3430.js",
-    "runtime-main.js.map": "/architect-company/static/js/runtime-main.454b3430.js.map",
-    "static/js/2.6dd7b3e1.chunk.js": "/architect-company/static/js/2.6dd7b3e1.chunk.js",
-    "static/js/2.6dd7b3e1.chunk.js.map": "/architect-company/static/js/2.6dd7b3e1.chunk.js.map",
-    "static/js/3.a61b9766.chunk.js": "/architect-company/static/js/3.a61b9766.chunk.js",
-    "static/js/3.a61b9766.chunk.js.map": "/architect-company/static/js/3.a61b9766.chunk.js.map",
+    "main.css": "/architect-company/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/architect-company/static/js/main.4527a39d.chunk.js",
+    "main.js.map": "/architect-company/static/js/main.4527a39d.chunk.js.map",
+    "runtime-main.js": "/architect-company/static/js/runtime-main.fbe7739d.js",
+    "runtime-main.js.map": "/architect-company/static/js/runtime-main.fbe7739d.js.map",
+    "static/js/2.5ae410ba.chunk.js": "/architect-company/static/js/2.5ae410ba.chunk.js",
+    "static/js/2.5ae410ba.chunk.js.map": "/architect-company/static/js/2.5ae410ba.chunk.js.map",
+    "static/js/3.e01e27f2.chunk.js": "/architect-company/static/js/3.e01e27f2.chunk.js",
+    "static/js/3.e01e27f2.chunk.js.map": "/architect-company/static/js/3.e01e27f2.chunk.js.map",
     "index.html": "/architect-company/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/architect-company/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.6dd7b3e1.chunk.js.LICENSE.txt": "/architect-company/static/js/2.6dd7b3e1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/architect-company/static/media/logo.6ce24c58.svg"
+    "static/css/main.d87cbb72.chunk.css.map": "/architect-company/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.5ae410ba.chunk.js.LICENSE.txt": "/architect-company/static/js/2.5ae410ba.chunk.js.LICENSE.txt",
+    "static/media/build1.294cb541.png": "/architect-company/static/media/build1.294cb541.png",
+    "static/media/house2.177d7bc5.jpg": "/architect-company/static/media/house2.177d7bc5.jpg",
+    "static/media/house3.038deb4b.jpg": "/architect-company/static/media/house3.038deb4b.jpg",
+    "static/media/house4.287c75d7.jpg": "/architect-company/static/media/house4.287c75d7.jpg",
+    "static/media/house5.6961b726.jpg": "/architect-company/static/media/house5.6961b726.jpg",
+    "static/media/house6.6961b726.jpg": "/architect-company/static/media/house6.6961b726.jpg",
+    "static/media/house7.287c75d7.jpg": "/architect-company/static/media/house7.287c75d7.jpg",
+    "static/media/lovebuild.6bc0c03d.png": "/architect-company/static/media/lovebuild.6bc0c03d.png",
+    "static/media/team1.a1d2f373.jpg": "/architect-company/static/media/team1.a1d2f373.jpg",
+    "static/media/team3.722c83de.jpg": "/architect-company/static/media/team3.722c83de.jpg",
+    "static/media/team4.1a9a53d9.jpg": "/architect-company/static/media/team4.1a9a53d9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.454b3430.js",
-    "static/js/2.6dd7b3e1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4f9e86d5.chunk.js"
+    "static/js/runtime-main.fbe7739d.js",
+    "static/js/2.5ae410ba.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.4527a39d.chunk.js"
   ]
 }
