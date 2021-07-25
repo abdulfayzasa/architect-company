@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/architect-company/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/architect-company/static/js/main.4527a39d.chunk.js",
-    "main.js.map": "/architect-company/static/js/main.4527a39d.chunk.js.map",
-    "runtime-main.js": "/architect-company/static/js/runtime-main.fbe7739d.js",
-    "runtime-main.js.map": "/architect-company/static/js/runtime-main.fbe7739d.js.map",
+    "main.css": "/architect-company/static/css/main.aa2afa67.chunk.css",
+    "main.js": "/architect-company/static/js/main.578b19fe.chunk.js",
+    "main.js.map": "/architect-company/static/js/main.578b19fe.chunk.js.map",
+    "runtime-main.js": "/architect-company/static/js/runtime-main.ff473577.js",
+    "runtime-main.js.map": "/architect-company/static/js/runtime-main.ff473577.js.map",
     "static/js/2.5ae410ba.chunk.js": "/architect-company/static/js/2.5ae410ba.chunk.js",
     "static/js/2.5ae410ba.chunk.js.map": "/architect-company/static/js/2.5ae410ba.chunk.js.map",
-    "static/js/3.e01e27f2.chunk.js": "/architect-company/static/js/3.e01e27f2.chunk.js",
-    "static/js/3.e01e27f2.chunk.js.map": "/architect-company/static/js/3.e01e27f2.chunk.js.map",
+    "static/js/3.790411cc.chunk.js": "/architect-company/static/js/3.790411cc.chunk.js",
+    "static/js/3.790411cc.chunk.js.map": "/architect-company/static/js/3.790411cc.chunk.js.map",
     "index.html": "/architect-company/index.html",
-    "static/css/main.d87cbb72.chunk.css.map": "/architect-company/static/css/main.d87cbb72.chunk.css.map",
+    "static/css/main.aa2afa67.chunk.css.map": "/architect-company/static/css/main.aa2afa67.chunk.css.map",
     "static/js/2.5ae410ba.chunk.js.LICENSE.txt": "/architect-company/static/js/2.5ae410ba.chunk.js.LICENSE.txt",
     "static/media/build1.294cb541.png": "/architect-company/static/media/build1.294cb541.png",
     "static/media/house2.177d7bc5.jpg": "/architect-company/static/media/house2.177d7bc5.jpg",
@@ -25,9 +25,9 @@
     "static/media/team4.1a9a53d9.jpg": "/architect-company/static/media/team4.1a9a53d9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbe7739d.js",
+    "static/js/runtime-main.ff473577.js",
     "static/js/2.5ae410ba.chunk.js",
-    "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.4527a39d.chunk.js"
+    "static/css/main.aa2afa67.chunk.css",
+    "static/js/main.578b19fe.chunk.js"
   ]
 }
