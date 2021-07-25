@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/architect-company/static/css/main.a617e044.chunk.css",
+    "main.js": "/architect-company/static/js/main.4f9e86d5.chunk.js",
+    "main.js.map": "/architect-company/static/js/main.4f9e86d5.chunk.js.map",
+    "runtime-main.js": "/architect-company/static/js/runtime-main.454b3430.js",
+    "runtime-main.js.map": "/architect-company/static/js/runtime-main.454b3430.js.map",
+    "static/js/2.6dd7b3e1.chunk.js": "/architect-company/static/js/2.6dd7b3e1.chunk.js",
+    "static/js/2.6dd7b3e1.chunk.js.map": "/architect-company/static/js/2.6dd7b3e1.chunk.js.map",
+    "static/js/3.a61b9766.chunk.js": "/architect-company/static/js/3.a61b9766.chunk.js",
+    "static/js/3.a61b9766.chunk.js.map": "/architect-company/static/js/3.a61b9766.chunk.js.map",
+    "index.html": "/architect-company/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/architect-company/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6dd7b3e1.chunk.js.LICENSE.txt": "/architect-company/static/js/2.6dd7b3e1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/architect-company/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454b3430.js",
+    "static/js/2.6dd7b3e1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4f9e86d5.chunk.js"
+  ]
+}
